@@ -1,0 +1,4 @@
+package com.eazybytes.loans.repository;
+
+public interface LoansRepository {
+}
